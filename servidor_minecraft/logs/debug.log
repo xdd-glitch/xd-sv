@@ -6062,3 +6062,46 @@ java.lang.NullPointerException: null
 [29Apr2025 19:46:28.854] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
 [29Apr2025 19:46:28.854] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
 [29Apr2025 19:49:21.236] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Camilo0812A: Applied effect Night Vision to Camilo0812A]
+[29Apr2025 19:51:15.490] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[29Apr2025 19:51:15.498] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[29Apr2025 19:54:54.649] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[29Apr2025 19:54:55.297] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[29Apr2025 19:54:55.901] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[29Apr2025 19:54:56.800] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[29Apr2025 19:54:57.399] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[29Apr2025 19:54:58.251] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[29Apr2025 19:56:15.472] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[29Apr2025 19:56:15.480] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[29Apr2025 19:58:17.047] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[29Apr2025 19:58:17.899] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[29Apr2025 19:58:20.031] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[29Apr2025 19:58:20.747] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[29Apr2025 19:59:50.281] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Camilo0812A lost connection: Disconnected
+[29Apr2025 19:59:50.281] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Camilo0812A left the game
+[29Apr2025 19:59:50.329] [Server thread/DEBUG] [com.blackgear.platform.core.util.config.ConfigLoader/]: Found existing serverconfig directory : ./world/serverconfig
+[29Apr2025 19:59:50.329] [Server thread/DEBUG] [com.blackgear.platform.core.util.config.ConfigTracker/CONFIG]: Unloading configs type SERVER
+[29Apr2025 19:59:50.329] [Server thread/DEBUG] [lain.mods.cos.init.forge.ForgeCosmeticArmorReworked/]: Server is stopping... try to save all still loaded CosmeticArmor data
+[29Apr2025 19:59:50.331] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[29Apr2025 19:59:50.332] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[29Apr2025 19:59:50.332] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[29Apr2025 19:59:50.332] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[29Apr2025 19:59:51.072] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[29Apr2025 19:59:51.072] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[29Apr2025 19:59:51.073] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[29Apr2025 19:59:51.073] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[29Apr2025 19:59:51.074] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[29Apr2025 19:59:51.074] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/mahoutsukai:reality_marble
+[29Apr2025 19:59:51.074] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (reality_marble): All chunks are saved
+[29Apr2025 19:59:51.075] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/lostcities:lostcity
+[29Apr2025 19:59:51.075] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (lostcity): All chunks are saved
+[29Apr2025 19:59:51.076] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[29Apr2025 19:59:51.083] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[29Apr2025 19:59:51.105] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[29Apr2025 19:59:51.128] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[29Apr2025 19:59:51.129] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[29Apr2025 19:59:51.129] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (reality_marble): All chunks are saved
+[29Apr2025 19:59:51.129] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (lostcity): All chunks are saved
+[29Apr2025 19:59:51.131] [Server thread/DEBUG] [net.minecraftforge.fml.loading.FileUtils/CORE]: Found existing serverconfig directory : ./world/serverconfig
+[29Apr2025 19:59:51.131] [Server thread/DEBUG] [net.minecraftforge.fml.config.ConfigTracker/CONFIG]: Unloading configs type SERVER
+[29Apr2025 19:59:51.132] [Thread-0/DEBUG] [net.minecraftforge.fml.config.ConfigFileTypeHandler/CONFIG]: Config file hexerei-server.toml changed, sending notifies
+[29Apr2025 19:59:51.132] [Thread-0/DEBUG] [net.minecraftforge.fml.config.ConfigFileTypeHandler/CONFIG]: Config file hexerei-server.toml changed, sending notifies

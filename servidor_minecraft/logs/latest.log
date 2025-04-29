@@ -512,3 +512,23 @@ java.lang.NullPointerException: null
 [29Apr2025 19:34:03.898] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Camilo0812A joined the game
 [29Apr2025 19:38:25.674] [Server thread/ERROR] [net.minecraft.world.gen.feature.structure.Structure/]: Unknown structure piece id: minecraft:whpiece
 [29Apr2025 19:49:21.236] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Camilo0812A: Applied effect Night Vision to Camilo0812A]
+[29Apr2025 19:59:50.281] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Camilo0812A lost connection: Disconnected
+[29Apr2025 19:59:50.281] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Camilo0812A left the game
+[29Apr2025 19:59:50.331] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[29Apr2025 19:59:50.332] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[29Apr2025 19:59:50.332] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[29Apr2025 19:59:50.332] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[29Apr2025 19:59:51.072] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[29Apr2025 19:59:51.072] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[29Apr2025 19:59:51.073] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[29Apr2025 19:59:51.073] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[29Apr2025 19:59:51.074] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[29Apr2025 19:59:51.074] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/mahoutsukai:reality_marble
+[29Apr2025 19:59:51.074] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (reality_marble): All chunks are saved
+[29Apr2025 19:59:51.075] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/lostcities:lostcity
+[29Apr2025 19:59:51.075] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (lostcity): All chunks are saved
+[29Apr2025 19:59:51.105] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[29Apr2025 19:59:51.128] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[29Apr2025 19:59:51.129] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[29Apr2025 19:59:51.129] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (reality_marble): All chunks are saved
+[29Apr2025 19:59:51.129] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (lostcity): All chunks are saved
