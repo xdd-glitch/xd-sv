@@ -572,3 +572,5 @@ java.lang.NullPointerException: null
 [30Apr2025 21:47:36.436] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Camilo0812A: Set the weather to clear]
 [30Apr2025 21:49:40.109] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Camilo0812A: Set own game mode to Creative Mode]
 [30Apr2025 21:52:39.848] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Camilo0812A: Set the weather to clear]
+[30Apr2025 21:56:44.213] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Camilo0812A lost connection: Disconnected
+[30Apr2025 21:56:44.214] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Camilo0812A left the game
