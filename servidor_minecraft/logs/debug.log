@@ -5702,3 +5702,18 @@ java.lang.NullPointerException: null
 [30Apr2025 19:38:28.600] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
 [30Apr2025 19:40:58.753] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Villager'/520, l='ServerLevel[world]', x=480.50, y=7.04, z=-1244.70] died, message: 'Villager drowned'
 [30Apr2025 19:41:27.007] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Villager'/934, l='ServerLevel[world]', x=480.66, y=51.99, z=-1242.70] died, message: 'Villager drowned'
+[30Apr2025 19:43:10.597] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Camilo0812A: Set own game mode to Spectator Mode]
+[30Apr2025 19:43:26.934] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Camilo0812A: Set own game mode to Creative Mode]
+[30Apr2025 19:43:28.104] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[30Apr2025 19:43:28.116] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[30Apr2025 19:44:17.630] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Camilo0812A: Set own game mode to Survival Mode]
+[30Apr2025 19:44:23.562] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted PlayerEntity.getHeldItem() method!
+[30Apr2025 19:44:23.562] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[30Apr2025 19:44:23.562] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[30Apr2025 19:44:24.662] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted PlayerEntity.getHeldItem() method!
+[30Apr2025 19:44:24.662] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[30Apr2025 19:44:24.663] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[30Apr2025 19:44:28.147] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Camilo0812A: Set own game mode to Creative Mode]
+[30Apr2025 19:48:28.208] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[30Apr2025 19:48:28.219] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[30Apr2025 19:48:51.648] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Camilo0812A: Set the weather to clear]
