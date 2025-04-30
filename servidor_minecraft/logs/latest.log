@@ -528,3 +528,9 @@ java.lang.NullPointerException: null
 [30Apr2025 20:16:00.159] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Camilo0812A: Set the weather to clear]
 [30Apr2025 20:18:01.711] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Camilo0812A has made the advancement [Take Aim]
 [30Apr2025 20:21:06.609] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Camilo0812A: Set the weather to clear]
+[30Apr2025 20:26:10.184] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Camilo0812A: Set the weather to clear]
+[30Apr2025 20:31:15.659] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Camilo0812A: Set the weather to clear]
+[30Apr2025 20:31:46.973] [Server thread/ERROR] [net.minecraft.world.gen.feature.structure.Structure/]: Unknown structure piece id: minecraft:whpiece
+[30Apr2025 20:32:07.066] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Camilo0812A: Overriding vanilla fill limit of 32768 blocks by filling 157950 blocks. This may take some time]
+[30Apr2025 20:32:07.349] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Camilo0812A: Successfully filled 9659 blocks]
+[30Apr2025 20:32:15.485] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Camilo0812A: Killed 78 entities]
