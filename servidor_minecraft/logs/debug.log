@@ -5802,3 +5802,11 @@ java.lang.NullPointerException: null
 [30Apr2025 20:42:21.551] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager/]: defineId called for: class dev.itsmeow.betteranimalsplus.common.entity.EntityLamprey from class dev.itsmeow.betteranimalsplus.imdlib.entity.EntityTypeContainer
 [30Apr2025 20:42:21.551] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager/]: defineId called for: class dev.itsmeow.betteranimalsplus.common.entity.EntityLamprey from class dev.itsmeow.betteranimalsplus.imdlib.entity.util.EntityTypeContainerContainable
 [30Apr2025 20:42:32.095] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Camilo0812A: Killed 6 entities]
+[30Apr2025 20:43:28.091] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[30Apr2025 20:43:28.101] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[30Apr2025 20:43:53.410] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Camilo0812A: Killed 15 entities]
+[30Apr2025 20:44:41.470] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Camilo0812A: Set own game mode to Survival Mode]
+[30Apr2025 20:46:28.344] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Camilo0812A: Set the weather to clear]
+[30Apr2025 20:48:28.154] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[30Apr2025 20:48:28.163] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[30Apr2025 20:51:33.492] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Camilo0812A: Set the weather to clear]
