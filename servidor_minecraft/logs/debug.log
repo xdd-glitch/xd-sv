@@ -5783,3 +5783,22 @@ java.lang.NullPointerException: null
 [30Apr2025 20:32:07.066] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Camilo0812A: Overriding vanilla fill limit of 32768 blocks by filling 157950 blocks. This may take some time]
 [30Apr2025 20:32:07.349] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Camilo0812A: Successfully filled 9659 blocks]
 [30Apr2025 20:32:15.485] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Camilo0812A: Killed 78 entities]
+[30Apr2025 20:33:28.214] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[30Apr2025 20:33:28.222] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[30Apr2025 20:36:20.060] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Camilo0812A: Set the weather to clear]
+[30Apr2025 20:36:50.619] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager/]: defineId called for: class dev.itsmeow.betteranimalsplus.common.entity.EntityGoose from class dev.itsmeow.betteranimalsplus.imdlib.entity.EntityTypeContainer
+[30Apr2025 20:36:53.000] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Camilo0812A: Summoned new Iron Golem]
+[30Apr2025 20:36:54.017] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Camilo0812A: Summoned new Iron Golem]
+[30Apr2025 20:36:54.991] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Camilo0812A: Summoned new Iron Golem]
+[30Apr2025 20:36:57.461] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Camilo0812A: Summoned new Iron Golem]
+[30Apr2025 20:36:58.261] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Camilo0812A: Summoned new Iron Golem]
+[30Apr2025 20:36:58.406] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Villager'/1400, l='ServerLevel[world]', x=572.46, y=64.00, z=-1311.49] died, message: 'Villager was slain by Zombie'
+[30Apr2025 20:37:29.915] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Camilo0812A: Killed 11 entities]
+[30Apr2025 20:38:28.187] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[30Apr2025 20:38:28.196] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[30Apr2025 20:39:10.636] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Camilo0812A: Killed 9 entities]
+[30Apr2025 20:41:22.416] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Camilo0812A: Killed 8 entities]
+[30Apr2025 20:41:25.144] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Camilo0812A: Set the weather to clear]
+[30Apr2025 20:42:21.551] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager/]: defineId called for: class dev.itsmeow.betteranimalsplus.common.entity.EntityLamprey from class dev.itsmeow.betteranimalsplus.imdlib.entity.EntityTypeContainer
+[30Apr2025 20:42:21.551] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager/]: defineId called for: class dev.itsmeow.betteranimalsplus.common.entity.EntityLamprey from class dev.itsmeow.betteranimalsplus.imdlib.entity.util.EntityTypeContainerContainable
+[30Apr2025 20:42:32.095] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Camilo0812A: Killed 6 entities]
